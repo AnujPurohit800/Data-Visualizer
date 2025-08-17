@@ -34,12 +34,6 @@ To use the Data Structure and Algorithm Visualizer, open the index.html file in 
 ## Contact
 - **Gmail :** anujpurohit800@gmail.com
 
-
-## Live Demo
-Check out the live demo of the Data Structure and Algorithm Visualizer: [Live Demo](https://divyanshurajwar.github.io/Data-Structure-Visualizer/#about-section)
-
-
-
 ## Installation
 
 Follow these steps to set up the Data Structure and Algorithm Visualizer locally:
