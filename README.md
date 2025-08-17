@@ -32,8 +32,7 @@ To use the Data Structure and Algorithm Visualizer, open the index.html file in 
 
 
 ## Contact
-- **Gmail :** divyanshurajwar@gmail.com
-- **LinkedIn :** https://www.linkedin.com/in/divyanshu-rajwar-159804259/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **Gmail :** anujpurohit800@gmail.com
 
 
 ## Live Demo
