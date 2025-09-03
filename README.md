@@ -8,7 +8,6 @@
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contact](#contact)
-- [Live Demo](#live-demo)
 - [Installation](#installation)
 
 ## Introduction
