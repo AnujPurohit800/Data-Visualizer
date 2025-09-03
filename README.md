@@ -40,7 +40,7 @@ Follow these steps to set up the Data Structure and Algorithm Visualizer locally
 
 ```sh
 # Clone the repository
-git clone https://github.com/DivyanshuRajwar/Data-Structure-Visualizer.git
+git clone https://github.com/AnujPurohit800/Data-Visualizer.git
 
 # Navigate to the project directory
 cd data-structure-algorithm-visualizer
